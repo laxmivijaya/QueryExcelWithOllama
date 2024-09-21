@@ -1,0 +1,2 @@
+# QueryExcelWithOllama
+QueryExcelWithOllamaPandasAIWithLocalJupyter
